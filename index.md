@@ -1,10 +1,7 @@
 CAMILO HERNANDEZ
 Software Engineer
-
-camiloahm@gmail.com
-+1 4708540846
 https://github.com/camiloahm
-Orlando
+https://www.linkedin.com/in/camilo-andres-hernandez-marin-a5011524/
 
 Summary
 ======
