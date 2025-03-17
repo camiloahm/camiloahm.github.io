@@ -13,10 +13,10 @@ Passionate Software Engineer with experience in high performance, large scale di
 
 ### Epam - IHG Hotels & Resorts (Contractor)
 **Technical Leader**
+*05/2020 - Ongoing Orlando, FL*
 
-05/2020 - Ongoing
-Orlando, FL
 As a Lead, I played a key role in tech modernization efforts, focusing on integrating SaaS solutions and enhancing the overall technical infrastructure.
+ 
  - Developed the transformation for multiple processes inside Loyalty, Booking, Inventory , Orders, PMS integration, CRM, B2B (Chase, Concur, Payments, etc) , MDM, stay processing and Channels) impacting more than 200 million members and 800 million transactions per day.
  - Designed, implemented and maintained  60+ microservices services for CRM Middleware, Loyalty applications.
  - Jumped into most of the production incidents to help to diagnose and troubleshoot them preventing the loss of millions of revenue in bookings and member enrollments.
@@ -25,9 +25,10 @@ As a Lead, I played a key role in tech modernization efforts, focusing on integr
 
 ### Jumbo Supermarkten
 **Principal Software Engineer**
-01/2019 - 05/2020
-Eindhoven, Netherlands
+*01/2019 - 05/2020 Eindhoven, Netherlands*
+
 As a part of the OMS team (Order Management System) within Jumbo Online, we need to make sure that the stores with Pick Up Points and/or Home Delivery possibility, are able to process the orders as smooth as possible to all of our customers.
+
  - Split a monolith application into 10+ microservices increasing the availability of the system and response time to whiched helped Jumbo to deal with million of grocery online orders during pandemic.
  - Created CICD pipeline with GitLab and Kubernetes to the new infrastructure.
  - Configured Automatic tests to validate releases using (Gatling, postman, soap UI, selenium).
@@ -38,18 +39,20 @@ As a part of the OMS team (Order Management System) within Jumbo Online, we need
 
 ### Globant - Walt Disney World (Contractor)
 **Java Architect**
-03/2017 - 01/2019
-Medellín, Colombia
+*03/2017 - 01/2019 Medellín, Colombia*
+
 Led Search Studio for Walt Disney Parks and Resorts Cast members applications. Search Studio creates powerful, cast members focused search. When a user types in a query or browses through advisories, news, rosters, tools, catalogs, etc. our system goes to work. I designed, developed, and deployed high performance, search system used by thousands of cast members inside Disney.
+
  - Applied Relevance Engineering to improve search quality and effectiveness of search experience for Cast members visitors.
  - Developed new ranking features and algorithms that capture unique characteristics for different types of searches.
  - Developed data crawlers using different techniques like Web scrapping, consuming REST APIs, RSS listeners, etc.
 
 ### Bizagi
 **Java Architect - Cloud Architect**
-01/2015 - 03/2017
-Bogotá, Colombia
+*01/2015 - 03/2017 Bogotá, Colombia*
+
 Created a new products model.bizagi.com, run.bizagi.com, account.bizagi.com, connector.bizagi.com.
+ 
  - Developed an identity provider for cloud products with OAuth 2 RFC for more than 20 million of accounts.
  - Designed and configured DevOps methodology integrating development with CI, CD, unit tests, integration testing, load tests, health monitoring, code repositories, feature flags, etc.
  - Developed real time stream analytics architecture.
@@ -59,14 +62,14 @@ Created a new products model.bizagi.com, run.bizagi.com, account.bizagi.com, con
 
 ### Cobiscorp
 **Senior Specialist**
-01/2011 - 05/2012
-Bogotá, Colombia
+*01/2011 - 05/2012 Bogotá, Colombia*
+
 I worked as a consultant for FNA Bank, where I led technical development for core banking projects. I designed and implemented various components based on SOA (Service-Oriented Architecture) and established the baseline architecture for core projects developed using JEE.
 
 ### ITAC
 **Junior Software Engineer**
-2010 - 2011
-Bogotá, Colombia
+*2010 - 2011 Bogotá, Colombia*
+
 My first job, I worked as a consultant for Davivienda Bank, where I contributed to the development and enhancement of key applications such as davivienda.com, daviplata.com, and davivalores.com. I successfully delivered multiple features that directly improved the experience for the bank’s customers and supported their digital transformation goals.
 
 
@@ -115,4 +118,3 @@ Universidad del Quindío
 - Sun Certified Business Component Developer for the Java Platform, EE 5 (Oracle)
 - Sun Certified Web Component Developer for the Java Platform, EE 5 (Oracle)
 - Oracle Certified Professional, Java EE 5 Web Services Developer (Oracle)
-
