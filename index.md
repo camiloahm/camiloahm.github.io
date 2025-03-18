@@ -86,9 +86,7 @@ B. E Software Engineer, Software Development, Software Architecture, Project Man
 Universidad del Quindío
 01/2004 - 12/2009
 
-
 ## Skills
-
 - Languages: Java, Python, Scala, C# .Net, JavaScript
 - Databases: Oracle, MySQL, MariaDB, Elasticsearch, DynamoDb, Cassandra, Redis
 - Cloud: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP).
@@ -100,15 +98,12 @@ Universidad del Quindío
 - Monitoring: AppDynamics, ELK, Splunk, Sumo Logic, NewRelic, Graphana.
 - System Design: Solution Architecture, OOP, Functional Programming, Domain Driven Design.
 
-
 ## Awards
-
 - EPAM Impact 2023: Impact on Clients and Technology
 - Second Place Bizagi FedEx day 2015
 - Excellence in team work Bizagi 2014
 - 2nd place Lego programming competition 2007
 - Scholarship Elementary School 1999
-
 
 ## Certifications
 - MS: Developing Microsoft Azure Solutions (Microsoft)
