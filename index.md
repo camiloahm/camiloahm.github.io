@@ -49,7 +49,7 @@ Led Search Studio for Walt Disney Parks and Resorts Cast members applications. S
 
 ### Bizagi
 **Java Architect - Cloud Architect**
-*01/2015 - 03/2017 Bogotá, Colombia*
+*01/2012 - 03/2017 Bogotá, Colombia*
 
 Created a new products model.bizagi.com, run.bizagi.com, account.bizagi.com, connector.bizagi.com.
  
